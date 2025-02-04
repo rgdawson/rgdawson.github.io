@@ -1,1 +1,1 @@
-SlxAvailableVersion:2.12.3.0
+SlxAvailableVersion:2.12.4.0
